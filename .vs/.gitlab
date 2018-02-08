@@ -1,0 +1,10 @@
+{
+  "User": {
+    "id": 10,
+    "username": "kirichenec",
+    "name": "Кириченко Игорь Григорьевич",
+    "email": "kirichenecigor@gmail.com",
+    "new_portrait": null,
+    "host": "http://192.168.0.32"
+  }
+}

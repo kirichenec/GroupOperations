@@ -34,3 +34,6 @@ E:\kirichenec\GoogleDrive\LittleProjects\AddJPG\GroupOperations\obj\Debug\GroupO
 E:\kirichenec\GoogleDrive\LittleProjects\AddJPG\GroupOperations\obj\Debug\GroupOperations.g.resources
 E:\kirichenec\GoogleDrive\LittleProjects\AddJPG\GroupOperations\obj\Debug\GroupOperations.Properties.Resources.resources
 E:\kirichenec\GoogleDrive\LittleProjects\AddJPG\GroupOperations\obj\Debug\GroupOperations.csproj.GenerateResource.Cache
+D:\GitHub\GroupOperations\GroupOperations\bin\Debug\GroupOperations.exe.config
+D:\GitHub\GroupOperations\GroupOperations\obj\Debug\GroupOperations.exe
+D:\GitHub\GroupOperations\GroupOperations\obj\Debug\GroupOperations.pdb
