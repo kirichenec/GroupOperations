@@ -1,0 +1,15 @@
+d:\kirichenec\documents\visual studio 2015\Projects\AddJPG\AddJPG\bin\Debug\AddJPG.exe.config
+d:\kirichenec\documents\visual studio 2015\Projects\AddJPG\AddJPG\bin\Debug\AddJPG.exe
+d:\kirichenec\documents\visual studio 2015\Projects\AddJPG\AddJPG\bin\Debug\AddJPG.pdb
+d:\kirichenec\documents\visual studio 2015\Projects\AddJPG\AddJPG\obj\Debug\AddJPG.csprojResolveAssemblyReference.cache
+d:\kirichenec\documents\visual studio 2015\Projects\AddJPG\AddJPG\obj\Debug\MainWindow.g.cs
+d:\kirichenec\documents\visual studio 2015\Projects\AddJPG\AddJPG\obj\Debug\App.g.cs
+d:\kirichenec\documents\visual studio 2015\Projects\AddJPG\AddJPG\obj\Debug\AddJPG_MarkupCompile.cache
+d:\kirichenec\documents\visual studio 2015\Projects\AddJPG\AddJPG\obj\Debug\AddJPG_MarkupCompile.lref
+d:\kirichenec\documents\visual studio 2015\Projects\AddJPG\AddJPG\obj\Debug\App.baml
+d:\kirichenec\documents\visual studio 2015\Projects\AddJPG\AddJPG\obj\Debug\MainWindow.baml
+d:\kirichenec\documents\visual studio 2015\Projects\AddJPG\AddJPG\obj\Debug\AddJPG.g.resources
+d:\kirichenec\documents\visual studio 2015\Projects\AddJPG\AddJPG\obj\Debug\AddJPG.Properties.Resources.resources
+d:\kirichenec\documents\visual studio 2015\Projects\AddJPG\AddJPG\obj\Debug\AddJPG.csproj.GenerateResource.Cache
+d:\kirichenec\documents\visual studio 2015\Projects\AddJPG\AddJPG\obj\Debug\AddJPG.exe
+d:\kirichenec\documents\visual studio 2015\Projects\AddJPG\AddJPG\obj\Debug\AddJPG.pdb

@@ -1,0 +1,36 @@
+E:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\obj\Debug\GroupOperations.csprojResolveAssemblyReference.cache
+E:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\obj\Debug\MainWindow.g.cs
+E:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\obj\Debug\App.g.cs
+E:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\obj\Debug\App.baml
+E:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\obj\Debug\MainWindow.baml
+E:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\obj\Debug\GroupOperations.csproj.GenerateResource.Cache
+E:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\bin\Debug\MaterialDesignColors.dll
+E:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\bin\Debug\GroupOperations.exe.config
+E:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\bin\Debug\GroupOperations.exe
+E:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\bin\Debug\GroupOperations.pdb
+E:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\obj\Debug\GroupOperations_MarkupCompile.cache
+E:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\obj\Debug\GroupOperations.g.resources
+E:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\obj\Debug\GroupOperations.Properties.Resources.resources
+E:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\obj\Debug\GroupOperations.exe
+E:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\obj\Debug\GroupOperations.pdb
+E:\kirichenec\GoogleDrive\LittleProjects\AddJPG\GroupOperations\bin\Debug\GroupOperations.exe.config
+E:\kirichenec\GoogleDrive\LittleProjects\AddJPG\GroupOperations\obj\Debug\GroupOperations.exe
+E:\kirichenec\GoogleDrive\LittleProjects\AddJPG\GroupOperations\obj\Debug\GroupOperations.pdb
+E:\kirichenec\GoogleDrive\LittleProjects\AddJPG\GroupOperations\bin\Debug\GroupOperations.exe
+E:\kirichenec\GoogleDrive\LittleProjects\AddJPG\GroupOperations\bin\Debug\GroupOperations.pdb
+E:\kirichenec\GoogleDrive\LittleProjects\AddJPG\GroupOperations\bin\Debug\MaterialDesignColors.dll
+E:\kirichenec\GoogleDrive\LittleProjects\AddJPG\GroupOperations\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\kirichenec\GoogleDrive\LittleProjects\AddJPG\GroupOperations\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\kirichenec\GoogleDrive\LittleProjects\AddJPG\GroupOperations\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\kirichenec\GoogleDrive\LittleProjects\AddJPG\GroupOperations\obj\Debug\GroupOperations.csprojResolveAssemblyReference.cache
+E:\kirichenec\GoogleDrive\LittleProjects\AddJPG\GroupOperations\obj\Debug\MainWindow.baml
+E:\kirichenec\GoogleDrive\LittleProjects\AddJPG\GroupOperations\obj\Debug\App.baml
+E:\kirichenec\GoogleDrive\LittleProjects\AddJPG\GroupOperations\obj\Debug\MainWindow.g.cs
+E:\kirichenec\GoogleDrive\LittleProjects\AddJPG\GroupOperations\obj\Debug\App.g.cs
+E:\kirichenec\GoogleDrive\LittleProjects\AddJPG\GroupOperations\obj\Debug\GroupOperations_MarkupCompile.cache
+E:\kirichenec\GoogleDrive\LittleProjects\AddJPG\GroupOperations\obj\Debug\GroupOperations.g.resources
+E:\kirichenec\GoogleDrive\LittleProjects\AddJPG\GroupOperations\obj\Debug\GroupOperations.Properties.Resources.resources
+E:\kirichenec\GoogleDrive\LittleProjects\AddJPG\GroupOperations\obj\Debug\GroupOperations.csproj.GenerateResource.Cache

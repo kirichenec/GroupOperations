@@ -1,0 +1,14 @@
+D:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\bin\Release\AddExtension.exe.config
+D:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\bin\Release\AddExtension.exe
+D:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\bin\Release\AddExtension.pdb
+D:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\obj\Release\MainWindow.g.cs
+D:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\obj\Release\App.g.cs
+D:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\obj\Release\AddExtension_MarkupCompile.cache
+D:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\obj\Release\AddExtension_MarkupCompile.lref
+D:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\obj\Release\App.baml
+D:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\obj\Release\MainWindow.baml
+D:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\obj\Release\AddExtension.g.resources
+D:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\obj\Release\AddExtension.Properties.Resources.resources
+D:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\obj\Release\AddExtension.csproj.GenerateResource.Cache
+D:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\obj\Release\AddExtension.exe
+D:\kirichenec\Documents\Visual Studio 2015\Projects\AddJPG\AddJPG\obj\Release\AddExtension.pdb
